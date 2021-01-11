@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(115, 177, 235);
+}
+
+.container {
+    background-color: white;
+    border-radius: 10px;
+}
+
+h2 {
+    color: white;
+}
+
+.card {
+    width: 100%;
+
+    .card-header {
+        background-color: rgba(115, 177, 235, 0.4);
+    }
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+}
+
+.done {
+    text-decoration: line-through !important;
+}
